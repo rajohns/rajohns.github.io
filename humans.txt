@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Ryan Johnson> -- <Creator> -- <no twitter>
 
 # THANKS
 
-    <name>
+    <Janelle Johnson>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Standards: HTML5, CSS3
+    
+	Components: Bootstrap, Modernizr, , Bootstrap, HTML5Boilerplate, Initializr, MathJax
+	
+	Software: Notepad++
